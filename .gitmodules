@@ -4,3 +4,9 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = git@github.com:LT2120/rustlings.git
+[submodule "TinyInfiniTensor"]
+	path = TinyInfiniTensor
+	url = git@github.com:LT2120/TinyInfiniTensor.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:LT2120/learning-lm-rs.git
